@@ -1,25 +1,4 @@
-# PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation
 
-This repo is the official implementation for **PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation**. The paper has been accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-
-[arXiv](https://arxiv.org/pdf/2303.17472.pdf) / [project page](https://qitaozhao.github.io/PoseFormerV2) / [video](https://www.youtube.com/watch?v=2xVNrGpGldM)
-
-| ![dance_1](images/demo_1.gif) | ![dance_2](images/demo_2.gif) |
-| ----------------------------- | ----------------------------- |
-
-### News
-
-[2024.06.16] Sorry for the huge delay. The code and pre-trained model for MPI-INF-3DHP has been released. Please check [here](https://github.com/QitaoZhao/PoseFormerV2?tab=readme-ov-file#mpi-inf-3dhp).
-
-[2024.02.06] The environment requirements are updated. Also, check our NeurIPS 2023 paper [ContextAware-PoseFormer](https://github.com/QitaoZhao/ContextAware-PoseFormer) (It outperforms sequence-based models with a single video frame as input)!
-
-[2023.06.16] Codes for in-the-wild video demos are released!
-
-[2023.05.31] We have a narrated video introduction. Please check [here](https://www.youtube.com/watch?v=2xVNrGpGldM).
-
-[2023.03.28] We build a [project page](https://qitaozhao.github.io/PoseFormerV2) where we place more descriptions and video demos.
-
-[2023.03.31] Our paper on [arXiv](https://arxiv.org/pdf/2303.17472.pdf) is ready!
 
 ## Introduction
 
