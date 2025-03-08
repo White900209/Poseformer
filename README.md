@@ -86,11 +86,6 @@ You can evaluate PoseFormerV2 with prepared checkpoints as:
 ```bash
 python run_poseformer.py -g 0 -k cpn_ft_h36m_dbb -frame 27 -frame-kept 3 -coeff-kept 3 -c checkpoint/ --evaluate NAME_ckpt.bin
 ```
-
-## MPI-INF-3DHP
-
-We followed [P-STMO](https://github.com/paTRICK-swk/P-STMO?tab=readme-ov-file#mpi-inf-3dhp-1) to prepare the data and train our model. Please click [here](https://github.com/QitaoZhao/PoseFormerV2/tree/main/mpi_inf_3dhp) for details.
-
 ## Video Demo
 
 | ![skating](images/demo_3.gif) |
@@ -107,8 +102,3 @@ Run the command below:
 ```bash
 python demo/vis.py --video sample_video.mp4
 ```
-
-## Acknowledgment
-
-Our codes are mainly based on [PoseFormer](https://github.com/zczcwh/PoseFormer). We follow [P-STMO](https://github.com/paTRICK-swk/P-STMO?tab=readme-ov-file#mpi-inf-3dhp-1) to train on MPI-INF-3DHP and [MHFormer](https://github.com/Vegetebird/MHFormer) to prepare our in-the-wild video demos and visualizations. Many thanks to the authors!
-
