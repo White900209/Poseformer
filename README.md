@@ -57,7 +57,7 @@ code_root/
 	├── data_2d_h36m_cpn_ft_h36m_dbb.npz
 	└── data_3d_h36m.npz
 ```
-
+https://drive.google.com/drive/folders/112GPdRC9IEcwcJRyrLJeYw9_YV4wLdKC?usp=sharing
 ### Training
 
 You can train PoseFormerV2 on a single GPU with the following command:
